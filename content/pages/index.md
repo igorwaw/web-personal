@@ -29,8 +29,6 @@ Here are other places where you can find me (I'm not very active on Twitter and 
 - [LinkedIn](https://www.linkedin.com/in/igorwawrzyniak)
 
 
-&nbsp; 
-
 In my mythical free time, I'm into:
 
 - Sailing and other water sports ⛵

@@ -16,10 +16,12 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-# LINKS = (('Pelican', 'https://getpelican.com/'),
-#          ('Python.org', 'https://www.python.org/'),
-#          ('Jinja2', 'https://palletsprojects.com/p/jinja/'),
-#          ('You can modify those links in your config file', '#'),)
+LINKS = (('Main', 'https://too-many-machines.com/'),
+         ('Selfhosting', 'https://selfhosting.too-many-machines.com/'),
+         ('Advent of Code', 'https://advent.too-many-machines.com/'),
+         ('Photo', 'https://photo.too-many-machines.com/'),
+         ('Random Stuff', 'https://random.too-many-machines.com/'),         
+        )
 
 # # Social widget
 SOCIAL = (('Mastodon',  'https://fosstodon.org/@igorw', 'user'),
@@ -48,7 +50,7 @@ DISPLAY_PAGES_ON_MENU = False
 PLUGIN_PATHS = ['pelican-plugins']
 
 THEME = 'pelican-themes/pelican-bootstrap3'
-BOOTSTRAP_THEME = 'sandstone'
+BOOTSTRAP_THEME = 'flatly'
 AVATAR = 'images/aws-avatar.png'
 
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
