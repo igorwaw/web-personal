@@ -11,9 +11,9 @@ I've been working in IT longer than I dare to admit. I do:
 
 - Linux 🐧
 - server automation 🖥️
-- data engineering 💿
+- data security 💿
 - Python programming 🐍
-- a bit of embedded C and C++ 🤖
+- a bit of embedded programming 🤖
 
 I'm born in Poland, currently living in the UK. 
 
