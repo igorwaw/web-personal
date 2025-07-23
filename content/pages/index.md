@@ -1,5 +1,5 @@
 Title: Too Many Machines
-Date: 2023-03-27 17:30
+Date: 2025-07-23 21:30
 Status: published
 Summary: Personal website of Igor Wawrzyniak
 URL:
@@ -20,12 +20,11 @@ I'm born in Poland, currently living in the UK.
 &nbsp; 
 
 
-Here are other places where you can find me (I'm not very active on Twitter and LinkedIn and might reply with a long delay):
+Here are other places where you can find me (I'm not very active on LinkedIn and might reply with a long delay):
 
 - [GitHub](https://github.com/igorwaw)
 - [Mastodon](https://fosstodon.org/@igorw)
 - [Facebook](https://www.facebook.com/igor.wawrzyniak.31)
-- [Twitter](https://twitter.com/igorwaw)
 - [LinkedIn](https://www.linkedin.com/in/igorwawrzyniak)
 
 
@@ -49,5 +48,4 @@ I'm surrounded by them. I work with virtual machines all the time. If I do some 
 
 Also, the domain was available and the previous ones I tried were all taken.
 
-![Dall-E image for Too Many Machines]({static}/images/dalle-machines2.png)
 
